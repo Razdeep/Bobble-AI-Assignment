@@ -114,9 +114,8 @@ int main(int argc, const char **argv)
 		sort(all(dictionary), sortingMethod);
 		
 		for (int i = 0; i < (int)min(dictionary_count, 5); ++i)
-			cout << dictionary[i].word_name << " ";
+			cout << dictionary[i].word_name << (i + 1 == min(dictionary_count, 5) ? "\n" : ", ");
 		
-		cout << endl;
 	}
 	catch (const std::exception &e)
 	{
