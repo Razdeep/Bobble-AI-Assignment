@@ -15,5 +15,5 @@ Elitmus ID: `3986567`
 git clone https://github.com/Razdeep/Bobble-AI-Assignment.git
 ```
 ## Jump to the solutions
- - [Permutations](./Permutations/README.md)
- - [Word Suggestions](./Word%20Suggestion/README.md)
+ - [Permutations](https://github.com/Razdeep/Bobble-AI-Assignment/tree/master/Permutations)
+ - [Word Suggestions](https://github.com/Razdeep/Bobble-AI-Assignment/tree/master/Word%20Suggestion)
