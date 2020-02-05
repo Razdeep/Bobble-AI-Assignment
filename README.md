@@ -1,2 +1,2 @@
-# Boggle-AI-Assignment
-Boggle AI Assignment
+# Bobble-AI-Assignment
+Bobble AI Assignment
